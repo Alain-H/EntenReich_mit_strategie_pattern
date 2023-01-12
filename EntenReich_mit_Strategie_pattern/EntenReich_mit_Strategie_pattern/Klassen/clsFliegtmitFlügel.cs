@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace EntenReich_mit_Strategie_pattern
 {
-    internal class clsFliegtmitFlügel
+    internal class clsFliegtmitFlügel : IFlugfähig
     {
+        public void fliegen()
+        {
+            Console.WriteLine("ich kann mit Flügel Fliegen.");
+        }
+
     }
 }

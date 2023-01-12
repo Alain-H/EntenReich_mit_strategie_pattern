@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace EntenReich_mit_Strategie_pattern
 {
-    internal interface IFlugfähig
+    internal interface IQuackFähig
     {
-        void fliegen();
+        void Quacken();
     }
 }
