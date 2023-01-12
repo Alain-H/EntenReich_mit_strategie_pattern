@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntenReich_mit_Strategie_pattern
 {
-    internal interface IQuackFähig
+    public interface IQuackFähig
     {
         void Quacken();
     }
