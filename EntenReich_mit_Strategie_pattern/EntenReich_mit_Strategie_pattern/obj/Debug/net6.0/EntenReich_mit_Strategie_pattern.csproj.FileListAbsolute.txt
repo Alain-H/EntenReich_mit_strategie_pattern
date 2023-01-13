@@ -13,3 +13,18 @@ C:\Users\alain\SynologyDrive\2.SchulJahr\M326\EntenReich_mit_Strategie_pattern\E
 C:\Users\alain\SynologyDrive\2.SchulJahr\M326\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\ref\EntenReich_mit_Strategie_pattern.dll
 C:\Users\alain\SynologyDrive\2.SchulJahr\M326\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.pdb
 C:\Users\alain\SynologyDrive\2.SchulJahr\M326\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.genruntimeconfig.cache
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.csproj.AssemblyReference.cache
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.AssemblyInfoInputs.cache
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.AssemblyInfo.cs
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.csproj.CoreCompileInputs.cache
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.dll
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.pdb
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\bin\Debug\net6.0\EntenReich_mit_Strategie_pattern.exe
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\bin\Debug\net6.0\EntenReich_mit_Strategie_pattern.deps.json
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\bin\Debug\net6.0\EntenReich_mit_Strategie_pattern.runtimeconfig.json
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\bin\Debug\net6.0\EntenReich_mit_Strategie_pattern.dll
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\bin\Debug\net6.0\EntenReich_mit_Strategie_pattern.pdb
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\refint\EntenReich_mit_Strategie_pattern.dll
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\EntenReich_mit_Strategie_pattern.genruntimeconfig.cache
+C:\Users\BlueofficeAcc\OneDrive - blue office ag\Desktop\Entenhausen_Proj\EntenReich_mit_Strategie_pattern\EntenReich_mit_Strategie_pattern\obj\Debug\net6.0\ref\EntenReich_mit_Strategie_pattern.dll
